@@ -1,3 +1,5 @@
+https://archive.ics.uci.edu/ml/datasets/Automobile 
+
 -- Inspect the fuel_type column
 
 SELECT
